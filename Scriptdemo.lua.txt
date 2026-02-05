@@ -2,8 +2,9 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "TRƯỜNG HỌC HUB",
-         Animation = "Tiktok TRƯỜNG HỌC HUB"
+         Title = "Midlotus Roblox",
+         Animation = "Tiktok MidLotus7961"
+       
          },
         Key = {
         KeySystem = false,
